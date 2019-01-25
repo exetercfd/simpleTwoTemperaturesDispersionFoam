@@ -1,1 +1,1 @@
-# simpleEpsilonSquaredTemperatureFoam
+# simpleTwoTemperaturesDispersionFoam
