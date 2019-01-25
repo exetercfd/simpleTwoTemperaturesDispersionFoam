@@ -1,0 +1,3 @@
+porousSimpleTwoTemperaturesDispersionFoam.C
+
+EXE = $(FOAM_APPBIN)/porousSimpleTwoTemperaturesDispersionFoam

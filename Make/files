@@ -1,0 +1,3 @@
+simpleTwoTemperaturesDispersionFoam.C
+
+EXE = $(FOAM_APPBIN)/simpleTwoTemperaturesDispersionFoam
